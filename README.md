@@ -1,5 +1,5 @@
 # How to Play
-Run "PvZ" in "build/bin" (Linux)(build from cmake file)
+Run "PvZ" in "build/bin" (Linux) (or build from cmake file in other os)
 
 # PvZ Game (C++ with CMake)
 
