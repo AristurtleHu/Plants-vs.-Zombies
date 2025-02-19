@@ -9,9 +9,9 @@
 // Change it if the program fails to load assets. You may also use an absolute
 // path.
 #ifdef __APPLE__
-static const std::string ASSET_DIR = "../../assets/";
+static const std::string ASSET_DIR = "../../../assets/";
 #else
-static const std::string ASSET_DIR = "../assets/";
+static const std::string ASSET_DIR = "../../assets/";
 #endif // __APPLE__
 
 // Returns a random integer within [min, max] (inclusive).
